@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# ssh cmd to connect to the server
 ssh -i ~/.ssh/school ubuntu@3.9.173.206
